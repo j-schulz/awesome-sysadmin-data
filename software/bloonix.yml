@@ -1,0 +1,10 @@
+name: Bloonix
+website_url: https://www.bloonix.de/
+description: Open-source monitoring system for servers, networks and services.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://repo.bloonix.org/sources/
